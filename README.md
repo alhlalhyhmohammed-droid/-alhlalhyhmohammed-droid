@@ -1,40 +1,19 @@
 <h2 align="left">
  <abc>
-  <br>مرحبا! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> محمد الهلالي — صانع محتوى يوتيوب 🎥<br>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm محمد الهلالي, YouTube Content Creator 🎥<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Creator GIF" width="500">
  </abc>
 </h2> 
 
-<h2 align="left">👨🏻‍💻 من أنا؟</h2>
-
-- 🎬 صانع محتوى يوتيوب  
-- 💡 شروحات تقنية  
-- 🎒 فلوغات  
-- 🎮 محتوى ألعاب  
-- ⭐ مراجعات وبرامج  
-- 🚀 أسعى لتقديم محتوى مفيد وممتع للجميع
-
----
-
-<h2 align="left">🛠️ الأدوات والبرامج التي أستخدمها</h2>
-
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=premiere,aftereffects,photoshop,illustrator,capcut,canva,obs" />
+    <img src="https://skillicons.dev/icons?i=premiere,aftereffects,photoshop,illustrator,capcut,canva,obs" />
 </p>
 
----
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<h2 align="left">🔥 أهدافي</h2>
-
-- تقديم محتوى عالي الجودة  
-- تطوير مهاراتي في المونتاج والتقنية  
-- بناء مجتمع جميل ومتفاعل  
-- نشر المعرفة بطريقة بسيطة وممتعة  
-
----
-
-<h2 align="left">❤️ شكراً لزيارتك لملفي</h2>
-
-> إذا أعجبك العمل هنا لا تنسَ إعطائي **⭐ Star** لدعمي!
+- 🎬 I'm a YouTube Content Creator, sharing tech tutorials, vlogs, gaming, and reviews  
+- 🚀 Always exploring new ways to create engaging content  
+- 🎥 P
